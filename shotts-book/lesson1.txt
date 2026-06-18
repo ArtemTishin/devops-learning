@@ -1,0 +1,6 @@
+mkdir ~/devops-lessons/shotts-book - создать папку
+nano ~/devops-lessons/shotts-book/lesson1.sh - открыть bash скрипт через nano
+rm ~/devops-lessons/shotts-book/lesson1.sh - удалить дирректорию
+
+
+
